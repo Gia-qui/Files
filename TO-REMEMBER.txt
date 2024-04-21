@@ -21,3 +21,5 @@
   dalle feasability condition (vincoli di P) e dal fatto che stanno tra 0 e 1
 - f strongly convex e X chiuso (include bordo o R) -> esiste minimo globale e unico
 
+- ATTENZIONE: SE NEL MULTIOBIETTIVO NON E' CONVESSO studiare l'hessiana dello scalarizzato
+
